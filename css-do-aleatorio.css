@@ -7,6 +7,6 @@ background-position: center; background-size:contain;background-repeat:no-repeat
 .branco {color:white;}
 body {background-color:grey;}
 #menu {height: 60px; background-color: rgb(73, 73, 73);}
-#skins1 {height:60px; width:60px; color: white; text-align:30px; text-align:center;
-background-color: aqua;}
+#skin1 {padding:20px; background-color: aqua;}
+
   
